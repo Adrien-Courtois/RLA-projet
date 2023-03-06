@@ -1,0 +1,1 @@
+docker run -it --env=DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --privileged --group-add plugdev $1 $2
