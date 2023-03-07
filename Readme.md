@@ -19,3 +19,8 @@ Lancement du container docker
 
 ## Inventaire
 
+* `profile` : Dossier contenant les fichiers d'installation d'Android Studio 
+* `projet` : Dossier contenant les projets partagés avec le container
+* `build.sh` : Script permettant de construire le container docker
+* `run.sh` : Script permettant de lancer le container docker 
+* `dockerfile` : Fichier de build du container docker
