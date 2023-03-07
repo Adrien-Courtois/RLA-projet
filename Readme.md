@@ -8,7 +8,14 @@ git clone https://github.com/Adrien-Courtois/RLA-projet.git
 ```
 Construction du container docker
 ```
-docker build . -t studio
+./build.sh
 ```
 
 ## Lancement
+Lancement du container docker
+```
+./run.sh
+```
+
+## Inventaire
+
